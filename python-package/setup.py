@@ -17,3 +17,4 @@ if __name__ == "__main__":
     setup(**setup_args)
 
 
+print("setup.py executed successfully.")
